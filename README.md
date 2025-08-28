@@ -10,3 +10,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gundmk1ng&label=Profile%20views&color=0e75b6&style=flat" alt="gundmk1ng" /> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gundmk1ng&show_icons=true&locale=en&layout=compact" alt="gundmk1ng" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gundmk1ng&show_icons=true&locale=en" alt="gundmk1ng" /></p>
+icons=true&theme=ambient_gradient
