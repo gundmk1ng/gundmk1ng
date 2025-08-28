@@ -1,6 +1,6 @@
 <h1 align="center" gundmk1ng
 ## Update
-<p> im still learning coding and programming🔭
+<p>
 <h3 align="center"> One of The Best Programmers
 🌱 im currently learnning coding and many more languages like Python, JavaScript, SCC, And More For educational purposes.
 <h3 align="left">Languages and Tools:
